@@ -1,0 +1,8 @@
+
+Escreva as classes para um pequeno sistema que permita cadastrar um grupo 
+indefinido de pessoas. Uma pessoa,no contexto desse sistema, possui nome, e-mail, idade e altura. Não podem
+existir duas pessoas com o mesmo e-mail cadastradas. O sistema também
+deve informar a maior idade cadastrada e a média da altura das pessoas. 
+
+O sistema deve utilizar o estilo de codificação e boas práticas da orientação
+a objetos definidas durante as aulas.
